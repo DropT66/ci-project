@@ -4,5 +4,5 @@ jdk:
   - oraclejdk8
 notifications: 
 	email: 
-	  - gmuswe15@gmail.com 
-	  - tbagwell@gmu.edu
+      - gmuswe15@gmail.com 
+      - tbagwell@gmu.edu
