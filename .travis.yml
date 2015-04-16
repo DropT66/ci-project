@@ -3,6 +3,6 @@ language: java
 jdk: 
   - oraclejdk8
 notifications: 
-	email: 
+    email: 
       - gmuswe15@gmail.com 
       - tbagwell@gmu.edu
